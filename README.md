@@ -7,7 +7,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anteel1&show_icons=true&icon_color=E25822&text_color=8E7434&bg_color=473939&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anteel1&show_icons=true&icon_color=CE1D2D&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true" />
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
