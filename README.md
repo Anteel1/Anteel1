@@ -1,5 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/long-ki%E1%BA%BFn-l%C6%B0%C6%A1ng-845858240/)](https://www.linkedin.com/in/long-ki%E1%BA%BFn-l%C6%B0%C6%A1ng-845858240/)
-[![Gmail Badge](https://img.shields.io/badge/-pranjal@algorand.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luonglkvn100@gmail.com)](mailto:luonglkvn100@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-eelant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/long-ki%E1%BA%BFn-l%C6%B0%C6%A1ng-845858240/)](https://www.linkedin.com/in/long-ki%E1%BA%BFn-l%C6%B0%C6%A1ng-845858240/)
+[![Gmail Badge](https://img.shields.io/badge/-luonglkvn100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luonglkvn100@gmail.com)](mailto:luonglkvn100@gmail.com)
 <p align="center">
   <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
 </p>
