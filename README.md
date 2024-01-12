@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-luonglkvn100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luonglkvn100@gmail.com)](mailto:luonglkvn100@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anteel1&label=Profile%20views&color=0e75b6&style=flat" alt="anteel1" /> </p>
 <p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+  <img alig src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZwemttbDJjeWc0bXRieTNmdG53bHVzbmtuczJtZ2hjcTBoNzl4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zrZZHiVBCCRbzrHDvX/giphy.gif" />
 </p>
 
 
