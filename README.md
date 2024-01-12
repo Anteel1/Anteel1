@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anteel1&show_icons=true&icon_color=CE1D2D&text_color=ffffff&bg_color=00000000&hide_title=true&hide_border=true" />
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media2.giphy.com/media/Pio0FLq6PFaPw4B4TF/giphy.gif?cid=ecf05e470aoqqwpriovpcx6pcnyik5f8mzep9brgubnpx0rb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
+# Welcome <img src="https://media2.giphy.com/media/Pio0FLq6PFaPw4B4TF/giphy.gif?cid=ecf05e470aoqqwpriovpcx6pcnyik5f8mzep9brgubnpx0rb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
 - Open source is something I'm interested in.
 - Artificial intelligence is an area I'm focusing on right now.
