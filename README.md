@@ -11,33 +11,7 @@
 
 # <img src="https://media1.giphy.com/media/yOB34q3CbywCDLGmvP/giphy.gif?cid=ecf05e4776hh0bytk6oxxk320t5g6ajw0ewvvlcjfl1c317e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
-I'm a backend developer with a knack for Node.js, JavaScript/TypeScript, and navigating the Linux command line. My coding journey started with a love for building scalable and efficient server-side applications.
-
-🌱 Currently mastering the art of asynchronous programming and diving deeper into the world of microservices architecture.
-
-🚀 Proficient in Node.js, Express.js, and TypeScript, I'm passionate about crafting APIs that power the next generation of web applications.
-
-🐧 Linux is my preferred development environment, and you'll often find me tweaking configurations and exploring the command line for optimal productivity.
-
-🔭 Currently architecting a modular and scalable backend system using the latest technologies. Exciting times ahead in the server-side realm!
-
-💬 Let's chat about anything from optimizing SQL queries to the latest Linux kernel updates. Always open to discussions on best practices and new tech trends.
-
-📫 Drop me a message at nodeninja@example.com if you want to discuss collaboration opportunities or just chat about all things tech.
-I'm a backend developer with a knack for Node.js, JavaScript/TypeScript, and navigating the Linux command line. My coding journey started with a love for building scalable and efficient server-side applications.
-
-🌱 Currently mastering the art of asynchronous programming and diving deeper into the world of microservices architecture.
-
-🚀 Proficient in Node.js, Express.js, and TypeScript, I'm passionate about crafting APIs that power the next generation of web applications.
-
-🐧 Linux is my preferred development environment, and you'll often find me tweaking configurations and exploring the command line for optimal productivity.
-
-🔭 Currently architecting a modular and scalable backend system using the latest technologies. Exciting times ahead in the server-side realm!
-
-💬 Let's chat about anything from optimizing SQL queries to the latest Linux kernel updates. Always open to discussions on best practices and new tech trends.
-
-📫 Drop me a message at nodeninja@example.com if you want to discuss collaboration opportunities or just chat about all things tech.
-
+- I'm a backend developer with a knack for Node.js, JavaScript/TypeScript, and navigating the Linux command line. My coding journey started with a love for building scalable and efficient server-side applications.
 
 ---
 
